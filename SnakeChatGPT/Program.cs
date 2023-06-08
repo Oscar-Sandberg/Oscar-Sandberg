@@ -19,6 +19,7 @@ namespace SnakeGame
 
         static List<Position> snake = new List<Position>();
         static Position food;
+        //TEST kommentar för att se om det funkar
 
         static void Main(string[] args)
         {
